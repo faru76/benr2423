@@ -21,4 +21,4 @@ let user = {
     },
     email:"faru@mail.com"
 }
-console.log(user.phone.mobile)
+console.log(user.phone.office)
